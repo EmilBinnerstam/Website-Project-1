@@ -1,15 +1,43 @@
 h1 {text-align: center;
-    font-family: avant garde;}
-background-color {:green;}
+    font-family: avant garde;
+    }
 
 body {
-    background-color: rgb(233, 229, 192);}
+    background-color: rgb(250, 248, 227);}
+
 h3 {
-    text-align: center;color:rgb(97, 97, 94);
+    text-align: center;
+    color:rgb(119, 117, 117);
     font-family: avant garde;}
-    li {
-        display: inline;
+
+nav ul {
+    list-style: none;
+    background-color: #4a4a4f;
+    margin: 0;
+    text-align: center;
+    padding: 0px;
+    width: 100%;
+    height: 100px;
+    }
+
+nav li {
+    font-size: 1.5em;
+    line-height: 20px;
+    height: 5px;
+    display: inline;
+    margin: 3%;
+    position: relative;
+    top: 35px;
         
-        margin: 90px;
-          
-     }
+}
+
+nav a {
+    text-decoration: none;
+    color:rgb(196, 196, 196);
+    display:large-block
+}
+nav a:hover {
+    background-color: rgb(250, 248, 227);
+    color:rgb(94, 94, 94)
+}
+
