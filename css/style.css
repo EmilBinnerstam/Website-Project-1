@@ -1,8 +1,26 @@
-#floatleft {
+.floatleft {
     float: left;
 }
+.floatright {
+    float: right;
+}
+.textcenter{text-align: center;
+    font-size: large;
+
+}
+.ol-fix{
+    position:center;
+    text-align: center;
+}
+ 
+@media (max-width: 1100px) {
+    #hideonphone  {
+          display:none;
+ }
+}
+
 h1 {text-align: center;
-    font-family: avant garde;
+    font-family:  'Times New Roman', Times, serif;
     }
 
 body {
@@ -11,7 +29,7 @@ body {
 h2 {
     text-align: center;
     color:rgb(41, 41, 41);
-    font-family: avant garde;}
+    font-family:  'Times New Roman', Times, serif;}
 
 nav ul {
     list-style: none;
@@ -44,7 +62,9 @@ nav a:hover {
     color:rgb(94, 94, 94)
 }
 
-img {
+ol li {
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif ;
     
-
 }
+
