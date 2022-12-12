@@ -11,6 +11,7 @@
 .ol-fix{
     position:center;
     text-align: center;
+    
 }
  
 @media (max-width: 1100px) {
@@ -65,6 +66,19 @@ nav a:hover {
 ol li {
     font-size: large;
     font-family: 'Times New Roman', Times, serif ;
-    
+    list-style-position: inside;
 }
-
+ footer {
+    background-color: rgb(56, 56,56);
+    padding: 3.1em;
+    text-align: center;
+    }
+    footer span {
+        color:rgb(250, 248, 227)
+    }
+    footer a {
+        color:rgb(250, 248, 227)
+    }
+   footer a:hover {text-decoration: none;
+        color: rgb(172, 172, 172);
+    }
