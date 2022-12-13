@@ -1,5 +1,6 @@
 .floatleft {
     float: left;
+    
 }
 .floatright {
     float: right;
@@ -72,6 +73,7 @@ ol li {
     background-color: rgb(56, 56,56);
     padding: 3.1em;
     text-align: center;
+    
     }
     footer span {
         color:rgb(250, 248, 227)
@@ -82,3 +84,15 @@ ol li {
    footer a:hover {text-decoration: none;
         color: rgb(172, 172, 172);
     }
+    div iframe {
+        width: 420px;
+        height: 315px;
+        margin: 0 auto;
+        
+    }
+    iframe {
+        display: block;
+        border-style:none;
+    }
+    
+   
