@@ -12,8 +12,11 @@
 .ol-fix{
     position:center;
     text-align: center;
-    
+
 }
+
+
+
 .imgpage2 {
     height: 450px;
     width: 450px;
@@ -31,12 +34,20 @@ h1 {text-align: center;
     }
 
 body {
-    background-color: rgb(250, 248, 227);}
+    background-color: rgb(250, 248, 227);
+    
+    
+    
+    
+} 
 
 h2 {
     text-align: center;
     color:rgb(41, 41, 41);
-    font-family:  'Times New Roman', Times, serif;}
+    font-family:  'Times New Roman', Times, serif;
+    
+}
+
 p {
     font-family: 'Times New Roman', Times, serif;
     font-size:large;
@@ -80,6 +91,7 @@ ol li {
 }
 input {
     display: block;
+    
 }
     
     
@@ -87,9 +99,8 @@ input {
  footer {
     background-color: rgb(56, 56,56);
     padding: 3.1em;
-    text-align: center;
-    
-    }
+    text-align: center;    
+}
     footer span {
         color:rgb(250, 248, 227)
     }
