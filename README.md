@@ -44,8 +44,15 @@ Users of this website will be able to mainly find Lifehacks but also information
 
 ## Bugs
 
+- fixed smaller buggs like missing spacebars before elements.
+- Fixed bugg where "br" was not allowed as child-element in "ol", Br was used to make the strucure of "li". and are now removed, leaving the page looking messy. But my understanding is that using "br" in "ol" is bad when using resposive design, and I have learned my lesson.
+- Fixed bugg where "alt" attributes was not allowed in "iframe" element, or in socialmedia links att the bottom.
+- fixed bug where titel was not allowed in "iframe"
+![Error-alt](https://i.ibb.co/Sy1Zbwb/image-Erroralt.png)
+
 ## Validator testing
 - HTML
+  - No errors are found
 - CSS
 - Accessibillity
   - I used the Lighthouse dev tool to confirm the page are readable and contrasts well on all 3 pages.

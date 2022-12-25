@@ -11,12 +11,9 @@
 
 }
 .ol-fix{
-        position:center;
         text-align: center;
 
 }
-
-
 
 .imgpage2 {
         height: 450px;
@@ -52,7 +49,7 @@ h2 {
 
 p {
         font-family: 'Times New Roman', Times, serif;
-        font-size:large;
+        font-size: large;
         text-align: center;
 }
 nav ul {
@@ -79,7 +76,7 @@ nav li {
 nav a {
         text-decoration: none;
         color:rgb(255, 255, 255);
-        display:large-block
+        display: block;
 }
 nav a:hover {
         background-color: rgb(97, 97, 97);
