@@ -12,7 +12,7 @@
 }
 .ol-fix{
         text-align: center;
-
+        
 }
 
 .imgpage2 {
@@ -66,10 +66,11 @@ nav li {
         font-size: 1.5em;
         line-height: 20px;
         height: 5px;
-        display: inline;
-         margin: 3%;
-         position: relative;
-         top: 35px;
+        display: inline-block;
+        margin: 3%;
+        position: static;
+        top: 35px;
+
         
 }
 
