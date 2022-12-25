@@ -25,4 +25,47 @@ Users of this website will be able to mainly find Lifehacks but also information
   - The about us page is where the use can find some firm information about the website and that its ment to be a community-runed website.
   - This page/section is where the user can sign up, choose to or not to get a newsletter by mail when signing up.
 
+
+![aboutus](https://i.ibb.co/xYSPWmf/imageaboutus.png)
+![signup](https://i.ibb.co/wNNtDqw/imagesignup.png)
+- The socialmedia links
+  - The socialmedia Links can be found at the bottom of each page.
+  - all three links are opend in a new tab and takes the user to respective socialmedia platform.
+
+![Socials](https://i.ibb.co/qsWhTKy/imagesocials.png")
+## Testing
+- I tested that all 3 pages works in Chrome, safari and Firefox
+
+- I have looked and confirmed that the pages look good on different devices
+
+- I have looked and confiormed that the nav-bar, header, about us and lifehack pages are readable and understanable.
+
+- I have confirmed that the sign up section "works" (even doh I dont have a server to send the data too) but it will only accept email in the email form, hide the password forms with stars *****. and the radio buttons makes it impossible to select "yes" and "no" at the same time on the "newletter" option.
+
+## Bugs
+
+## Validator testing
+- HTML
+- CSS
+- Accessibillity
+  - I used the Lighthouse dev tool to confirm the page are readable and contrasts well on all 3 pages.
+
+#### Main page
 ![MainPage](https://i.ibb.co/C8TFycv/imagemainpage.png)
+#### Lifehacks
+![Lifehakcs](https://i.ibb.co/qk5qDHw/image-Lifehackpage.png)
+#### About us
+![Aboutus](https://i.ibb.co/tLypd9C/image-Aboutuspage.png)
+
+## Deployment
+- The site is deployed to github pages. How to deploy:
+  - Go to the github respository, then go to the settings tab
+  - Scroll down to the pages option and click it
+  - Select the "Master Branch" from the source section dropdown menu
+  - Once done as described, the page will provide a link to the completed website.
+ #### Live link here - https://emilbinnerstam.github.io/Website-Project-1/page2.html
+
+## Credits
+  -  the code to place the Youtube video was taken from W3schools, HTML Youtube Videos. 
+## media 
+  - The main image used on all 3 sites was taken from https://www.pexels.com/sv-se/
